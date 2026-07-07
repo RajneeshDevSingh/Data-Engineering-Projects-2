@@ -28,7 +28,7 @@ Raw job posting data arrives as flat CSV files in Google Cloud Storage—not str
 **Solution**: End-to-end ETL pipeline that extracts CSVs from cloud storage, normalizes them into a star schema warehouse (separating facts from dimensions), and creates specialized data marts optimized for specific use cases (flat queries, skill demand analysis, priority role tracking).
 
 ---
-![ETL Pipeline Architecture Diagram](/All%20Projects/images/1_2_Data_Warehouse.png)
+![ETL Pipeline Architecture Diagram](./images/1_2_Data_Warehouse.png)
 
 
 ## 🧰 Tech Stack
