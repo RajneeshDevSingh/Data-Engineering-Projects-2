@@ -3,7 +3,7 @@
 An end-to-end data engineering pipeline that transforms raw CSV files from Google Cloud Storage into a normalized star schema data warehouse, then builds analytical data marts.
 
 ---
-![ETL Pipeline Architecture Diagram](/All%20Projects/images/1_2_Project2_Data_Pipeline.png)
+![ETL Pipeline Architecture Diagram](./images/1_2_Project2_Data_Pipeline.png)
 
 
 ## 🧾 Executive Summary (For Hiring Managers)
